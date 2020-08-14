@@ -1,0 +1,13 @@
+C:\Users\Student\workspace\Side Projects\ConsoleSideProjectOne\ConsoleSideProjectOne\bin\Debug\netcoreapp3.1\BookLibrary.exe
+C:\Users\Student\workspace\Side Projects\ConsoleSideProjectOne\ConsoleSideProjectOne\bin\Debug\netcoreapp3.1\BookLibrary.deps.json
+C:\Users\Student\workspace\Side Projects\ConsoleSideProjectOne\ConsoleSideProjectOne\bin\Debug\netcoreapp3.1\BookLibrary.runtimeconfig.json
+C:\Users\Student\workspace\Side Projects\ConsoleSideProjectOne\ConsoleSideProjectOne\bin\Debug\netcoreapp3.1\BookLibrary.runtimeconfig.dev.json
+C:\Users\Student\workspace\Side Projects\ConsoleSideProjectOne\ConsoleSideProjectOne\bin\Debug\netcoreapp3.1\BookLibrary.dll
+C:\Users\Student\workspace\Side Projects\ConsoleSideProjectOne\ConsoleSideProjectOne\bin\Debug\netcoreapp3.1\BookLibrary.pdb
+C:\Users\Student\workspace\Side Projects\ConsoleSideProjectOne\ConsoleSideProjectOne\obj\Debug\netcoreapp3.1\BookLibrary.csprojAssemblyReference.cache
+C:\Users\Student\workspace\Side Projects\ConsoleSideProjectOne\ConsoleSideProjectOne\obj\Debug\netcoreapp3.1\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\Side Projects\ConsoleSideProjectOne\ConsoleSideProjectOne\obj\Debug\netcoreapp3.1\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\Side Projects\ConsoleSideProjectOne\ConsoleSideProjectOne\obj\Debug\netcoreapp3.1\BookLibrary.AssemblyInfo.cs
+C:\Users\Student\workspace\Side Projects\ConsoleSideProjectOne\ConsoleSideProjectOne\obj\Debug\netcoreapp3.1\BookLibrary.dll
+C:\Users\Student\workspace\Side Projects\ConsoleSideProjectOne\ConsoleSideProjectOne\obj\Debug\netcoreapp3.1\BookLibrary.pdb
+C:\Users\Student\workspace\Side Projects\ConsoleSideProjectOne\ConsoleSideProjectOne\obj\Debug\netcoreapp3.1\BookLibrary.genruntimeconfig.cache

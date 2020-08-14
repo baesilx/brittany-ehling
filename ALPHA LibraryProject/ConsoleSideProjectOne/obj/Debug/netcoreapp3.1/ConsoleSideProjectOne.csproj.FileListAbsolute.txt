@@ -1,0 +1,13 @@
+C:\Users\Student\workspace\New folder\ConsoleSideProjectOne\ConsoleSideProjectOne\bin\Debug\netcoreapp3.1\ConsoleSideProjectOne.exe
+C:\Users\Student\workspace\New folder\ConsoleSideProjectOne\ConsoleSideProjectOne\bin\Debug\netcoreapp3.1\ConsoleSideProjectOne.deps.json
+C:\Users\Student\workspace\New folder\ConsoleSideProjectOne\ConsoleSideProjectOne\bin\Debug\netcoreapp3.1\ConsoleSideProjectOne.runtimeconfig.json
+C:\Users\Student\workspace\New folder\ConsoleSideProjectOne\ConsoleSideProjectOne\bin\Debug\netcoreapp3.1\ConsoleSideProjectOne.runtimeconfig.dev.json
+C:\Users\Student\workspace\New folder\ConsoleSideProjectOne\ConsoleSideProjectOne\bin\Debug\netcoreapp3.1\ConsoleSideProjectOne.dll
+C:\Users\Student\workspace\New folder\ConsoleSideProjectOne\ConsoleSideProjectOne\bin\Debug\netcoreapp3.1\ConsoleSideProjectOne.pdb
+C:\Users\Student\workspace\New folder\ConsoleSideProjectOne\ConsoleSideProjectOne\obj\Debug\netcoreapp3.1\ConsoleSideProjectOne.csprojAssemblyReference.cache
+C:\Users\Student\workspace\New folder\ConsoleSideProjectOne\ConsoleSideProjectOne\obj\Debug\netcoreapp3.1\ConsoleSideProjectOne.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\New folder\ConsoleSideProjectOne\ConsoleSideProjectOne\obj\Debug\netcoreapp3.1\ConsoleSideProjectOne.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\New folder\ConsoleSideProjectOne\ConsoleSideProjectOne\obj\Debug\netcoreapp3.1\ConsoleSideProjectOne.AssemblyInfo.cs
+C:\Users\Student\workspace\New folder\ConsoleSideProjectOne\ConsoleSideProjectOne\obj\Debug\netcoreapp3.1\ConsoleSideProjectOne.dll
+C:\Users\Student\workspace\New folder\ConsoleSideProjectOne\ConsoleSideProjectOne\obj\Debug\netcoreapp3.1\ConsoleSideProjectOne.pdb
+C:\Users\Student\workspace\New folder\ConsoleSideProjectOne\ConsoleSideProjectOne\obj\Debug\netcoreapp3.1\ConsoleSideProjectOne.genruntimeconfig.cache
